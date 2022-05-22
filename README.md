@@ -1,3 +1,3 @@
-# CN335
-cn335 final project
+# CN335 Final Project
+
 นาย ภัควัฒน์ อิสระวิศาลพล 6110613046
